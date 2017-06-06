@@ -1,6 +1,6 @@
 # Braitenberg Workshop
 
-Programming arduino powered robots to behave like Braitenberg Vehicles. Slides from the talk available [here](http://braitenberg.s3-website-eu-west-1.amazonaws.com/).
+Programming arduino powered robots to behave like Braitenberg Vehicles. Slides from the talk available [here](http://braitenberg.s3-website-eu-west-1.amazonaws.com/). [Arduino software](https://www.arduino.cc/en/Main/Software).
 
 ## Exercise 1
 Programming 2 motors to drive the robot forward in a straight line
